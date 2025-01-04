@@ -1,5 +1,6 @@
 import { useState } from "react";
 
+/* test comment */
 function Square({value, onSquareClick}:any) {
   return (
     <button 
